@@ -13,4 +13,8 @@ https://github.com/sophi-li/OKRs-self-learning
 - @ChloeCondon & @beccaroro's BCCAll podcast https://youtube.com/c/ChloeCondonVideos/videos
 - Pure React by @dceddia
  https://daveceddia.com/pure-react/
+ 
+ ## Interview prep twitter thread
+ https://twitter.com/sophia_wyl/status/1303030111378182150
+ 
 
