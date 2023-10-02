@@ -1,3 +1,4 @@
+https://leetcode.com/discuss/interview-question/742791/front-end-interview-questions
 
 ## more coding/learning/project/interview/resume resources & how I organized my life in the past year here:
 
